@@ -16,7 +16,7 @@ BTS SIO
 
 </aside>
 
-![image.png](image.png)
+![image.png](Image/image.png)
 
 <aside>
 
