@@ -34,7 +34,7 @@ Pour commencer il faut crée une autorité de certification, qui va attester que
 
 Pour cela il faut se rendre dans le menu des certificat :
 
-![image.png](image%201.png)
+![image.png](Image/image%201.png)
 
 Puis ajouter une autorité de certification dans Authorities :
 
