@@ -11,7 +11,6 @@ BTS SIO
 </aside>
 
 <aside>
-❗
 
 # Schéma réseau
 
@@ -20,14 +19,12 @@ BTS SIO
 ![image.png](image.png)
 
 <aside>
-❗
 
 # Mise en place du VPN
 
 </aside>
 
 <aside>
-📌
 
 ## Mise en place de l-autorité de certification
 
@@ -52,7 +49,6 @@ On voit bien cette nouvelle autorité de certification apparaître dans la liste
 ![image.png](image%204.png)
 
 <aside>
-📌
 
 ## Mise en place de certificat
 
@@ -77,7 +73,6 @@ Et il ne faut pas oublier de modifier le type de certificat et de le mettre sur 
 ![image.png](image%208.png)
 
 <aside>
-📌
 
 ## Ajout d’un utilisateur
 
@@ -110,7 +105,6 @@ Et nous avons donc nos deux certificat crée dans l’onglet Certificates :
 ![image.png](image%2013.png)
 
 <aside>
-📌
 
 ## Configuration d’OpenVPN
 
@@ -161,7 +155,6 @@ Puis nous terminons :
 ![image.png](image%2024.png)
 
 <aside>
-📌
 
 ## Configuration du client
 
@@ -184,7 +177,6 @@ Une fois dans cet onglet Client Export nous pourront descendre et voir les clien
 ![image.png](image%2028.png)
 
 <aside>
-❗
 
 # Test client
 
